@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NicolauzPitterz
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React
+- 👀 Full stack development enthusiast, but currently focusing on React 🌱
 
 <!---
 NicolauzPitterz/NicolauzPitterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
